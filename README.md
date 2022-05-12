@@ -13,6 +13,7 @@ source env/bin/activate
 
 ```bash
 pip install -r requirements.txt
+nile install
 ```
 
 ### ⛏️ Compile
